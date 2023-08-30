@@ -39,3 +39,15 @@
 #sobre-o-restaurante{
     background-color: #ffe8e6;
 }
+
+#eventos img{
+    margin-top: -60px;
+}
+
+#eventos h3{
+    margin-top: -60px;
+}
+
+#eventos i{
+    font-size: 25px;
+}
