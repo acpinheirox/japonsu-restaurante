@@ -5,13 +5,14 @@
     text-align: center;
 }
 
-.nav .nav-link.active{
+#cabecalho .nav .nav-link.active{
     background-color: #fae6c8;
     color: black;
     font-family: 'Roboto', sans-serif;
+    height: 40px;
 }
 
-.nav .nav-link{
+#cabecalho .nav .nav-link{
     color: black;
     font-family: 'Roboto', sans-serif;
 }
@@ -50,4 +51,55 @@
 
 #eventos i{
     font-size: 25px;
+}
+#cardapio button{
+    color: black;
+}
+
+.nav-cardapio .nav-link.active{
+    background-color: #ff9b7d;
+}
+
+.nav-cardapio .nav-link:hover{
+    color: #ff8d6a;
+}
+
+#cardapio img{
+    width: 300px;
+    margin-top: -70px;
+    padding: 20px;
+    margin-left: -35px;
+}
+#cardapio h5{
+    margin-top: -70px;
+    margin-left: 10px;
+}
+#cardapio p{
+    margin-top: -10px;
+    margin-left: 10px;
+}
+#cardapio .agua{
+    margin-top: -96px;
+}
+#cardapio .h5-agua{
+    margin-top: -95px;
+}
+#cardapio .h5-caldo{
+    margin-top: -80px;
+}
+
+#cardapio .drink{
+    margin-top: -73px;
+}
+
+#cardapio .h5-drink{
+    margin-top: -75px;
+}
+
+#cardapio .sushi-2{
+    margin-top: -95px;
+}
+
+#cardapio .h5-sushi-2{
+    margin-top: -95px;
 }
