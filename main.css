@@ -103,3 +103,27 @@
 #cardapio .h5-sushi-2{
     margin-top: -95px;
 }
+
+#fale-conosco i{
+    color: #ff6637;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+#fale-conosco button{
+    background-color: #c92f01;
+    color: white;
+}
+
+@media (max-width: 767px){
+    .carousel-item img{
+        height: 380px;
+    }
+}
