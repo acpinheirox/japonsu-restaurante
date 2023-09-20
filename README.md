@@ -13,7 +13,6 @@ O JaponSu é um projeto fictício de um restaurante virtual especializado na cul
 **Este projeto foi desenvolvido com as seguintes tecnologias:**
 
 - HTML5 e CSS3: Para a estrutura e a estilização da página.
-- SASS: Para Utilização de variáveis, mixins, funções e operações e outras opções para a estilização da página.
 - JavaScript: Para a interatividade e funcionalidades da interface do usuário.
 - Bibliotecas Front-end: Foram utilizadas bibliotecas como Bootstrap para agilizar o desenvolvimento e deixar a página responsiva.
 
