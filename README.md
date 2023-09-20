@@ -9,10 +9,18 @@ O JaponSu é um projeto fictício de um restaurante virtual especializado na cul
 
 - **Praticidade: Nossos clientes podem fazer olhar o menu, escolhendo os pratos desejados e entrando em contato.**
 
+## Tecnologias Utilizadas :ballot_box_with_check:
+**Este projeto foi desenvolvido com as seguintes tecnologias:**
+
+- HTML5 e CSS3: Para a estrutura e a estilização da página.
+- SASS: Para Utilização de variáveis, mixins, funções e operações e outras opções para a estilização da página.
+- JavaScript: Para a interatividade e funcionalidades da interface do usuário.
+- Bibliotecas Front-end: Foram utilizadas bibliotecas como Bootstrap para agilizar o desenvolvimento e deixar a página responsiva.
+
 ## Contato :telephone_receiver:
 Se você tiver alguma dúvida, sugestão ou simplesmente quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para matoscezar17@gmail.com.
 
-Agradecemos por visitar nosso repositório e considerar contribuir para o Restaurante Japonês Sabor do Oriente. Esperamos que este projeto possa continuar crescendo e proporcionando experiências deliciosas aos amantes da culinária japonesa em todo o mundo!
+Agradeço por visitar meu repositório e considerar contribuir para o Restaurante Japonês Sabor do Oriente. Esperamos que este projeto possa continuar crescendo e proporcionando experiências deliciosas aos amantes da culinária japonesa em todo o mundo!
 
 **Deploy: https://acpinheirox.github.io/japonsu-restaurante/**
 
